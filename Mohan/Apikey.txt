@@ -1,0 +1,13 @@
+API key = 1a39dc8ab9154c31aa3863f3286758de
+
+https://newsapi.org/v2/top-headlines?country=${this.props.country}&apiKey=1a39dc8ab9154c31aa3863f3286758de
+
+
+
+business
+entertainment
+general
+health
+science
+sports
+technology
