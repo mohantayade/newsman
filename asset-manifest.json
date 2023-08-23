@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsman/static/css/main.536e33e5.css",
+    "main.js": "/newsman/static/js/main.fdbc9505.js",
+    "static/js/787.bc7d429a.chunk.js": "/newsman/static/js/787.bc7d429a.chunk.js",
+    "static/media/loading.gif": "/newsman/static/media/loading.372b42cf636a06a45d06.gif",
+    "index.html": "/newsman/index.html",
+    "main.536e33e5.css.map": "/newsman/static/css/main.536e33e5.css.map",
+    "main.fdbc9505.js.map": "/newsman/static/js/main.fdbc9505.js.map",
+    "787.bc7d429a.chunk.js.map": "/newsman/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536e33e5.css",
+    "static/js/main.fdbc9505.js"
+  ]
+}
